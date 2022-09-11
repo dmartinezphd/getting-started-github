@@ -39,7 +39,10 @@ This is an unordered list
 [Lesson 2 of our workshop](https://scds.github.io/github-pages/lesson2.html)
 
 # Code
-```x = std(y);```
+```
+x = std(y);
+```
+
 ```
 x = std(y); 
 y = y^2;
