@@ -26,7 +26,7 @@ nav_order: 1
 This is my ordered list
 1. First thing
 2. Second thing
-3. Third thing
+3. Third thing (check)
 4. Fourth thing
 5. Fifth thing
 
